@@ -1,0 +1,33 @@
+.container {
+    border: 1px solid rgb(221, 209, 209);
+    display: flex;
+    align-items: center;
+    padding: 1em;
+}
+
+
+.checkbox-container {
+    width: 7%;
+}
+
+
+.heading-title {
+    font-weight: 500;
+}
+
+.name {
+    width: 25%;
+}
+
+.email {
+    width: 35%;
+}
+
+.role {
+    width: 18%;
+}
+
+.actions {
+    width: 13%;
+    font-weight: 500;
+}
